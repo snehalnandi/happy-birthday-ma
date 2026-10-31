@@ -1,0 +1,17 @@
+{
+  "name": "Happy Birthday Ma",
+  "short_name": "HBD Ma",
+  "description": "Happy Birthday Ma! Personalized birthday memories, songs, video, and wishes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#120414",
+  "theme_color": "#2D0C27",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/photos/photo_01.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "happy-birthday-ma-app",
+  "version": "1.0.0",
+  "description": "Happy Birthday Ma - Interactive Celebratory Web App & Cinematic Video",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": [
+    "happy-birthday",
+    "birthday-app",
+    "celebration",
+    "pwa"
+  ],
+  "author": "Loving Family",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

@@ -1,0 +1,46 @@
+# Logs & Temp
+*.log
+__pycache__/
+*.pyc
+.tempmediaStorage/
+.system_generated/
+*.tmp
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Root raw loose files (production assets live in assets/)
+*.wav
+/video/
+/audio/
+/photos/
+/app/
+generate_birthday_video.py
+*.bat
+start_app_server.py
+1.png
+2.png
+3.png
+4.png
+5.png
+6.png
+7.png
+8.png
+front\ page\ 1.png
+Front\ page\ 2.png
+Front\ Page\ 3.png
+100_kids_songs_-_Happy_Birthday_Song.mp3
+1_Happy_Birthday_Song_-_Happy_Birthday_To_You.mp3
+The_Festival_Singers_-_Happy_Birthday_To_You.mp3
+Traditional_-_Happy_Birthday.mp3
+Traditional_-_Happy_Birthday_To_You.mp3
+happy_birthday_-_piano_version.mp3
+happy_birthday_mother_live_acoustic.mp3
+happy_birthday_on_the_piano.mp3
+srk_happy_birthday_2.mp3
+Happy_Birthday_Ma.mp4
+Happy_Birthday_Ma_Landscape.mp4
